@@ -1,0 +1,25 @@
+---
+abstract: 'Crypt::RC4 plugin for IO::Stream'
+author:
+  - 'Alex Efros <powerman-asdf@ya.ru>'
+build_requires:
+  Test::Exception: 0
+  Test::More: 0
+distribution_type: module
+generated_by: 'Module::Install version 0.77'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: IO-Stream-Crypt-RC4
+no_index:
+  directory:
+    - inc
+    - t
+requires:
+  Crypt::RC4: 0
+  IO::Stream: 0
+  version: 0
+resources:
+  license: http://dev.perl.org/licenses/
+version: 1.000000

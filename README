@@ -1,0 +1,28 @@
+IO-Stream-Crypt-RC4 version 1.0.0
+
+This module is plugin for IO::Stream which allow you to encrypt all
+data read/written by this stream using RC4.
+
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+	perl Makefile.PL
+	make
+	make test
+	make install
+
+
+DEPENDENCIES
+
+IO::Stream
+Crypt::RC4
+
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2008, Alex Efros
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
