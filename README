@@ -1,4 +1,4 @@
-IO-Stream-Crypt-RC4 version 1.0.1
+IO-Stream-Crypt-RC4 version 1.0.2
 
 This module is plugin for IO::Stream which allow you to encrypt all
 data read/written by this stream using RC4.
