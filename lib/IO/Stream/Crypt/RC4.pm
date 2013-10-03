@@ -4,7 +4,7 @@ use warnings;
 use strict;
 use Carp;
 
-use version; our $VERSION = qv('1.0.2');    # update POD & Changes & README
+use version; our $VERSION = qv('1.0.3');    # update POD & Changes & README
 
 # update DEPENDENCIES in POD & Makefile.PL & README
 use IO::Stream::const;
@@ -86,7 +86,7 @@ IO::Stream::Crypt::RC4 - Crypt::RC4 plugin for IO::Stream
 
 =head1 VERSION
 
-This document describes IO::Stream::Crypt::RC4 version 1.0.2
+This document describes IO::Stream::Crypt::RC4 version 1.0.3
 
 
 =head1 SYNOPSIS
@@ -152,7 +152,7 @@ None reported.
 No bugs have been reported.
 
 Please report any bugs or feature requests to author, or
-C<bug-ev-stream-crypt-rc4@rt.cpan.org>, or through the web interface at
+C<bug-io-stream-crypt-rc4@rt.cpan.org>, or through the web interface at
 L<http://rt.cpan.org>.
 
 
