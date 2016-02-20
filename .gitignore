@@ -1,0 +1,8 @@
+/IO-Stream-Crypt-RC4-*
+/.build
+/_build*
+/Build
+MYMETA.*
+!META.json
+/.prove
+/tmp/
