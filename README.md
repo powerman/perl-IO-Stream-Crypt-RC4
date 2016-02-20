@@ -7,7 +7,7 @@ IO::Stream::Crypt::RC4 - Crypt::RC4 plugin for IO::Stream
 
 # VERSION
 
-This document describes IO::Stream::Crypt::RC4 version 1.0.3
+This document describes IO::Stream::Crypt::RC4 version v2.0.0
 
 # SYNOPSIS
 

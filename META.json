@@ -59,7 +59,7 @@
    "provides" : {
       "IO::Stream::Crypt::RC4" : {
          "file" : "lib/IO/Stream/Crypt/RC4.pm",
-         "version" : "v1.0.3"
+         "version" : "v2.0.0"
       }
    },
    "release_status" : "stable",
@@ -74,6 +74,6 @@
          "web" : "https://github.com/powerman/perl-IO-Stream-Crypt-RC4"
       }
    },
-   "version" : "v1.0.3"
+   "version" : "v2.0.0"
 }
 

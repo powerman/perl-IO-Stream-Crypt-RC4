@@ -1,6 +1,8 @@
 Revision history for IO-Stream-Crypt-RC4
 
 {{$NEXT}}
+
+v2.0.0  2016-02-20 13:52:32 EET
 	- Switch to Dist::Milla.
 
 1.0.3   2013-10-03 16:49:21 EEST
