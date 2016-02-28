@@ -30,9 +30,11 @@ data read/written by this stream using RC4.
 
 # INTERFACE 
 
-- new($passphrase)
+## new
 
-    Create and return new IO::Stream plugin object.
+    $plugin = IO::Stream::Crypt::RC4->new( $passphrase );
+
+Create and return new IO::Stream plugin object.
 
 # DIAGNOSTICS
 
@@ -86,7 +88,7 @@ Alex Efros &lt;powerman@cpan.org>
 
 # COPYRIGHT AND LICENSE
 
-This software is Copyright (c) 2008 by Alex Efros &lt;powerman@cpan.org>.
+This software is Copyright (c) 2008- by Alex Efros &lt;powerman@cpan.org>.
 
 This is free software, licensed under:
 
