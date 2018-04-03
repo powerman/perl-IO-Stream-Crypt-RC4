@@ -5,7 +5,7 @@ use strict;
 use utf8;
 use Carp;
 
-our $VERSION = 'v2.0.0';
+our $VERSION = 'v2.0.1';
 
 use IO::Stream::const;
 use Crypt::RC4;
@@ -88,7 +88,7 @@ IO::Stream::Crypt::RC4 - Crypt::RC4 plugin for IO::Stream
 
 =head1 VERSION
 
-This document describes IO::Stream::Crypt::RC4 version v2.0.0
+This document describes IO::Stream::Crypt::RC4 version v2.0.1
 
 
 =head1 SYNOPSIS
